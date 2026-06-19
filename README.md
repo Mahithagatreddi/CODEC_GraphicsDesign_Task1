@@ -18,7 +18,7 @@ FitFuel is a fictional healthy food delivery startup focused on promoting health
 
 ## Tools Used
 
-* Figma
+*  Adobe Illustrator, Photoshop
 
 ## Project Outcome
 
